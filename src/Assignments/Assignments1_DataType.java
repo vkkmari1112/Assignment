@@ -21,8 +21,8 @@ public class Assignments1_DataType {
 	    boolean myBoolean = true;
 	    System.out.println("Order is placed: " +myBoolean);
 	    
-	    boolean myBoolean2 = false;
-	    System.out.println("Order is not placed: " +myBoolean);
+	    boolean myBoolean1 = false;
+	    System.out.println("Order is not placed: " +myBoolean1);
 	    
 		//5. Person email address:"nanthini.kumari111219911"
 		String mailAddress = "nanthini.kumari111219911@gmail.com";
@@ -31,7 +31,9 @@ public class Assignments1_DataType {
 		//6. Coordination of Location(latitude,longitude):37.7749,-122.4194
 		double latitude = 37.7749;
 		double longitude =  -122.4194;
-		System.out.println("My Location is:" +latitude  +longitude);
+		System.out.println("My Location is: " +latitude+" "+longitude);
+		
+		//7. 
 
 	}
 
